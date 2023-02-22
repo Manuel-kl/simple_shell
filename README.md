@@ -102,4 +102,5 @@
 
 ## Authors
 
-- Manuel-kl &
+- Manuel-kl & MiriamShe
+
